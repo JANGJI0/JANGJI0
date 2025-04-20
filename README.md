@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=JANG%20JI%20YOUNG&type=wave&color=FFD580&fontColor=1E90FF&backgroundColor=white&desc=그대가%20봄인가%20보오&descSize=15&descAlign=73&descAlignY=80&descFontColor=D3D3D3)
+![header](https://capsule-render.vercel.app/api?text=JANG%20JI%20YOUNG&type=wave&color=FFD580&fontColor=1E90FF&backgroundColor=white&desc=헤멘%20만큼%20내%20땅이다&descSize=15&descAlign=73&descAlignY=80&descFontColor=D3D3D3)
 
 
 ## Hi there 👋

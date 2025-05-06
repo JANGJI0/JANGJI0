@@ -16,7 +16,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
 
 
-  ![JANGJI0's GitHub stats](https://github-readme-stats.vercel.app/api?username=JANGJI0&show_icons=true&theme=algolia) 
+  ![JANGJI0's GitHub stats](https://github-readme-stats.vercel.app/api?username=JANGJI0&show_icons=true&count_private=true&theme=algolia) 
   
 ## Hi there 👋
 
